@@ -1,1 +1,13 @@
-{}
+{
+  "carrot": {
+    "password": "88b9a8a22b6f6a0d7ca14a2d8e17e119e294bc10729040d8352c911db3e137d6",
+    "role": "admin",
+    "created": 1772447562087
+  },
+  "z": {
+    "password": "594e519ae499312b29433b7dd8a97ff068defcba9755b6d5d00e84c524d67b06",
+    "role": "user",
+    "created": 1772447595818,
+    "expires": 1772533995818
+  }
+}
